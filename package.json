@@ -1,0 +1,32 @@
+{
+  "name": "telegram-anonymous-chat-bot",
+  "version": "2.0.0",
+  "description": "A professional anonymous chat bot for Telegram with advanced features running on Cloudflare Workers",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "dependencies": {
+    "grammy": "^1.24.0"
+  },
+  "keywords": [
+    "telegram-bot",
+    "anonymous-chat",
+    "cloudflare-workers",
+    "grammy",
+    "javascript",
+    "bot"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/Telegram-Anonymous-Chat-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/Telegram-Anonymous-Chat-Bot/issues"
+  },
+  "homepage": "https://github.com/your-username/Telegram-Anonymous-Chat-Bot#readme"
+}
